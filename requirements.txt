@@ -1,0 +1,62 @@
+backports.entry-points-selectable==1.1.1
+CacheControl==0.12.10
+cachy==0.3.0
+certifi @ file:///home/runner/.cache/pypoetry/artifacts/74/3e/be/03ea1288258d0f7675a4db725dd5bf885a2f418ee4999d7d3682716467/certifi-2022.9.24-py3-none-any.whl
+cffi==1.15.0
+charset-normalizer @ file:///home/runner/.cache/pypoetry/artifacts/a0/cc/f3/791da5eac263d63828468bf073b46813bce771b3c8d4c7161435ca5805/charset_normalizer-2.1.1-py3-none-any.whl
+cleo==0.8.1
+click @ file:///home/runner/.cache/pypoetry/artifacts/b1/51/88/0a4644532ec02ec1dc0d255bc4bef36ba4bd7c6f7c1981b872221e4043/click-8.1.3-py3-none-any.whl
+clikit==0.6.2
+crashtest==0.3.1
+cryptography==35.0.0
+debugpy==1.2.1
+distlib==0.3.3
+docopt==0.6.2
+filelock==3.3.2
+Flask @ file:///home/runner/.cache/pypoetry/artifacts/26/88/d7/9531a697469d916e129e744a76b7ee501f00d9ffc2c417a878e4d80316/Flask-2.2.2-py3-none-any.whl
+future==0.18.2
+html5lib==1.1
+idna @ file:///home/runner/.cache/pypoetry/artifacts/16/85/93/f55f0851045cd178caa8ccdbbf8468cff4268862415cb119791313f5fb/idna-3.4-py3-none-any.whl
+itsdangerous @ file:///home/runner/.cache/pypoetry/artifacts/3d/7c/9b/5b7d8fe9b4aa44c7c19353433dda3fe7d323a82dd4258bde400ffd3451/itsdangerous-2.1.2-py3-none-any.whl
+jedi==0.18.1
+jeepney==0.7.1
+Jinja2 @ file:///home/runner/.cache/pypoetry/artifacts/6d/a1/a8/734ee8f6d31f453095746d01bc0f9e7a08552dc1cf53d0521140aabb21/Jinja2-3.1.2-py3-none-any.whl
+keyring==21.8.0
+lockfile==0.12.2
+MarkupSafe @ file:///home/runner/.cache/pypoetry/artifacts/56/62/a3/d9004a7c44ecbc3946b19fb6358af294627aa27da60239d7138a96c5c8/MarkupSafe-2.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+msgpack==1.0.2
+numpy @ file:///home/runner/.cache/pypoetry/artifacts/0a/f1/63/4e86e206dd78b5ffa1d0b33299c8275c3e1a2411fac9d63320ce69de5f/numpy-1.22.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+packaging==20.9
+parso==0.8.3
+pastel==0.2.1
+pexpect==4.8.0
+pipreqs-amasad==0.4.10
+pkginfo==1.7.1
+platformdirs==2.4.0
+pluggy==1.0.0
+poetry==1.1.11
+poetry-core==1.0.7
+ptyprocess==0.7.0
+pycparser==2.21
+pyflakes==2.1.1
+pylev==1.4.0
+pyparsing==3.0.5
+pyTelegramBotAPI @ file:///home/runner/.cache/pypoetry/artifacts/5e/87/68/0e9f216772c4aac8b821c60e2d75141c0435e15774183cd2c557733960/pyTelegramBotAPI-4.7.0.tar.gz
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.4.1
+requests @ file:///home/runner/.cache/pypoetry/artifacts/fb/cd/b4/e4bcb0c686f6d96e49bda2b5dd12e0603634d43852315da00adbad6806/requests-2.28.1-py3-none-any.whl
+requests-toolbelt==0.9.1
+rope==0.18.0
+SecretStorage==3.3.1
+shellingham==1.4.0
+six==1.16.0
+toml==0.10.2
+tomlkit==0.7.2
+typing-extensions==3.7.4.3
+ujson==5.3.0
+urllib3 @ file:///home/runner/.cache/pypoetry/artifacts/dd/4d/4b/e6558ac8bfc6b9a52f97c73eabdfcb8c68fa181ae0613e98106cdbfb18/urllib3-1.26.12-py2.py3-none-any.whl
+virtualenv==20.10.0
+webencodings==0.5.1
+Werkzeug @ file:///home/runner/.cache/pypoetry/artifacts/03/86/cf/a9f2a8618160f148d1c4973ec18563d63420ede53c6b847be4917db59e/Werkzeug-2.2.2-py3-none-any.whl
+yapf==0.31.0
+yarg==0.1.9
